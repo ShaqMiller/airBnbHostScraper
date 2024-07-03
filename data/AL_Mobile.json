@@ -1,0 +1,1028 @@
+{
+    "5867124": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 44.04, "currency": "USD" },
+                "completedTrips": 18,
+                "estimatedQuote": null,
+                "hostId": 5867124,
+                "id": 2392071,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/xG1LwF_FRBmGwFcSsBYSfw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/xG1LwF_FRBmGwFcSsBYSfw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Wilmer",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 8.411738767399969 },
+                    "homeLocation": {
+                        "lat": 30.794954527898142,
+                        "lng": -88.31957758070493
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "wilmer-al",
+                        "en_GB": "wilmer-al",
+                        "en_CA": "wilmer-al",
+                        "en_US": "wilmer-al",
+                        "en_AU": "wilmer-al",
+                        "fr_FR": "wilmer-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Nissan",
+                "model": "Altima",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2019
+            }
+        ],
+        "details": {
+            "name": "Md H.",
+            "firstName": "Md",
+            "lastName": "H.",
+            "id": 5867124,
+            "image": "https://images.turo.com/media/driver/sJoeIzThQyWs_eOcd6DH9Q.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "6681437": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 171.04, "currency": "USD" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 6681437,
+                "id": 2635583,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/8lzSfcCaSM2TuGKqBEApaA.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/8lzSfcCaSM2TuGKqBEApaA.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 5.905335808143678 },
+                    "homeLocation": {
+                        "lat": 30.767666047585347,
+                        "lng": -88.19814612184159
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Chevrolet",
+                "model": "Corvette",
+                "rating": null,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2020
+            }
+        ],
+        "details": {
+            "name": "Tasia O.",
+            "firstName": "Tasia",
+            "lastName": "O.",
+            "id": 6681437,
+            "image": "https://images.turo.com/media/driver/jZYUANB4SGWdzbCG26Ld9Q.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "17646167": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 450, "currency": "USD" },
+                "completedTrips": 30,
+                "estimatedQuote": null,
+                "hostId": 17646167,
+                "id": 995570,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/IzEXhqBwR-ShcuvbJqzSiw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/IzEXhqBwR-ShcuvbJqzSiw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Pensacola",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 64.65991881939321 },
+                    "homeLocation": {
+                        "lat": 30.473417680730133,
+                        "lng": -87.18714893388166
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "pensacola-fl",
+                        "en_GB": "pensacola-fl",
+                        "en_CA": "pensacola-fl",
+                        "en_US": "pensacola-fl",
+                        "en_AU": "pensacola-fl",
+                        "fr_FR": "pensacola-fl"
+                    },
+                    "state": "FL"
+                },
+                "make": "Chevrolet",
+                "model": "Silverado 1500",
+                "rating": 5,
+                "seoCategory": "TRUCK",
+                "tags": [
+                    { "label": "Free pickup at MOB", "type": "FREE_DELIVERY" }
+                ],
+                "type": "TRUCK",
+                "year": 2021
+            }
+        ],
+        "details": {
+            "name": "Lilnetta R.",
+            "firstName": "Lilnetta",
+            "lastName": "R.",
+            "id": 17646167,
+            "image": "https://images.turo.com/media/driver/idBh13oqSLKF-NqrNNUguA.jpg",
+            "bio": {
+                "employment": "Turo",
+                "home": "Florida",
+                "languages": "English",
+                "openEndedText": "Hello, I’m a 39 year old entrepreneur. I own several pieces of property and now Im Venturing off to make more passive income in the rental car business . I love to travel and spend time with my family . Hopefully this car and other cars I have added to my fleet will bring fun and excitement to your life as these  cars has brought to ours . Enjoy!The beautiful beaches in Pensacola and surrounding cities . Welcome ! Welcome ! Welcome ! ",
+                "school": "Louisiana"
+            }
+        }
+    },
+    "18146278": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 37.2, "currency": "USD" },
+                "completedTrips": 41,
+                "estimatedQuote": null,
+                "hostId": 18146278,
+                "id": 1966675,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/XZDyAR71TmqKNmLHxttJIg.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/XZDyAR71TmqKNmLHxttJIg.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 1.1874385511924073
+                    },
+                    "homeLocation": {
+                        "lat": 30.674875644726527,
+                        "lng": -88.24142594004867
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Ford",
+                "model": "Escape",
+                "rating": 4.9375,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2022
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 38.4, "currency": "USD" },
+                "completedTrips": 73,
+                "estimatedQuote": null,
+                "hostId": 18146278,
+                "id": 1711443,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/vwSeSsQ1QQ26xG-5ThHRLA.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/vwSeSsQ1QQ26xG-5ThHRLA.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 1.1874385511924073
+                    },
+                    "homeLocation": {
+                        "lat": 30.674875644726527,
+                        "lng": -88.24142594004867
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Toyota",
+                "model": "Camry",
+                "rating": 4.8909,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2023
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 47.98, "currency": "USD" },
+                "completedTrips": 45,
+                "estimatedQuote": null,
+                "hostId": 18146278,
+                "id": 1964274,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/YFL_WlfxT1qBKZyHd4RIgQ.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/YFL_WlfxT1qBKZyHd4RIgQ.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 1.1874385511924073
+                    },
+                    "homeLocation": {
+                        "lat": 30.674875644726527,
+                        "lng": -88.24142594004867
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Ford",
+                "model": "Mustang",
+                "rating": 4.9706,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Free pickup at MOB", "type": "FREE_DELIVERY" }
+                ],
+                "type": "CAR",
+                "year": 2022
+            }
+        ],
+        "details": {
+            "name": "AMC ..",
+            "firstName": "AMC",
+            "lastName": "..",
+            "id": 18146278,
+            "image": "https://images.turo.com/media/driver/thwFz95WT6GxLZfb1xngyg.jpg",
+            "bio": {
+                "employment": "",
+                "home": "Mobile, Alabama ",
+                "languages": "",
+                "openEndedText": "Located at \r\nAMC Rentals\r\n151 Schillinger Road South \r\nMobile Alabama 36608 \r\nAlternative contact [Number redacted for privacy and security]/[Number redacted for privacy and security]",
+                "school": ""
+            }
+        }
+    },
+    "24533571": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 58.88, "currency": "USD" },
+                "completedTrips": 91,
+                "estimatedQuote": null,
+                "hostId": 24533571,
+                "id": 1472839,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/WrIBTj6pR6-BFDVCaoy5_g.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/WrIBTj6pR6-BFDVCaoy5_g.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 1.0720927351865739
+                    },
+                    "homeLocation": {
+                        "lat": 30.676442106820527,
+                        "lng": -88.24259241138921
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Toyota",
+                "model": "Camry",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2022
+            }
+        ],
+        "details": {
+            "name": "Rentify ..",
+            "firstName": "Rentify",
+            "lastName": "..",
+            "id": 24533571,
+            "image": "https://images.turo.com/media/driver/ehD562KoTR6NVkVLQQT8EQ.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "Renting made quick & simple.",
+                "school": ""
+            }
+        }
+    },
+    "27488047": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 53.26, "currency": "USD" },
+                "completedTrips": 1,
+                "estimatedQuote": null,
+                "hostId": 27488047,
+                "id": 2724904,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/uLRn_r10TBixRUYXT8ODxg.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/uLRn_r10TBixRUYXT8ODxg.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": true,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 4.682903828227817 },
+                    "homeLocation": {
+                        "lat": 30.64071655691881,
+                        "lng": -88.19250798898763
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Lexus",
+                "model": "NX",
+                "rating": 5,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2020
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 116.07, "currency": "USD" },
+                "completedTrips": 1,
+                "estimatedQuote": null,
+                "hostId": 27488047,
+                "id": 2708365,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/WztYF7GkS12lyvR3820ieQ.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/WztYF7GkS12lyvR3820ieQ.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 4.682903828227817 },
+                    "homeLocation": {
+                        "lat": 30.64071655691881,
+                        "lng": -88.19250798898763
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Cadillac",
+                "model": "Escalade",
+                "rating": 5,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2022
+            }
+        ],
+        "details": {
+            "name": "Larry S.",
+            "firstName": "Larry",
+            "lastName": "S.",
+            "id": 27488047,
+            "image": "https://images.turo.com/media/driver/bIVMzT0cRKW4zBvGauST1A.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "28668198": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 71.41, "currency": "USD" },
+                "completedTrips": 77,
+                "estimatedQuote": null,
+                "hostId": 28668198,
+                "id": 1943626,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/g57DQ-5VRlOHx4R0Hc7iVw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/g57DQ-5VRlOHx4R0Hc7iVw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 3.7453515705777565
+                    },
+                    "homeLocation": {
+                        "lat": 30.711875101358103,
+                        "lng": -88.30276706671262
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Chevrolet",
+                "model": "Malibu",
+                "rating": 4.9841,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2021
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 62.16, "currency": "USD" },
+                "completedTrips": 20,
+                "estimatedQuote": null,
+                "hostId": 28668198,
+                "id": 2546826,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/ET6guTgwSyK_UwUFY8EkKg.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/ET6guTgwSyK_UwUFY8EkKg.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 3.7453515705777565
+                    },
+                    "homeLocation": {
+                        "lat": 30.711875101358103,
+                        "lng": -88.30276706671262
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Hyundai",
+                "model": "Sonata",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2016
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 63.52, "currency": "USD" },
+                "completedTrips": 7,
+                "estimatedQuote": null,
+                "hostId": 28668198,
+                "id": 2617414,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/yEGdWmZxSxWHvpS4Oz3p5w.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/yEGdWmZxSxWHvpS4Oz3p5w.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 3.7453515705777565
+                    },
+                    "homeLocation": {
+                        "lat": 30.711875101358103,
+                        "lng": -88.30276706671262
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Hyundai",
+                "model": "Sonata",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2017
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 61.07, "currency": "USD" },
+                "completedTrips": 64,
+                "estimatedQuote": null,
+                "hostId": 28668198,
+                "id": 1734985,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/PEMG1ak_SfKpM0soHKW0ew.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/PEMG1ak_SfKpM0soHKW0ew.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 3.8370086759050106
+                    },
+                    "homeLocation": {
+                        "lat": 30.71450382660438,
+                        "lng": -88.3031548959895
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Ford",
+                "model": "Focus",
+                "rating": 4.9623,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2014
+            }
+        ],
+        "details": {
+            "name": "Christian A.",
+            "firstName": "Christian",
+            "lastName": "A.",
+            "id": 28668198,
+            "image": "https://images.turo.com/media/driver/nqpzWFgxTSqZOZEv4W_bfg.jpg",
+            "bio": {
+                "employment": "",
+                "home": "Mobile, AL",
+                "languages": "English",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "30419843": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 282.71, "currency": "USD" },
+                "completedTrips": 1,
+                "estimatedQuote": null,
+                "hostId": 30419843,
+                "id": 2536097,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/n5-UknTTT92vHUpaY-2Luw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/n5-UknTTT92vHUpaY-2Luw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Madison",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 165.30898326214813
+                    },
+                    "homeLocation": {
+                        "lat": 32.462540601892826,
+                        "lng": -90.13306292506593
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "madison-ms",
+                        "en_GB": "madison-ms",
+                        "en_CA": "madison-ms",
+                        "en_US": "madison-ms",
+                        "en_AU": "madison-ms",
+                        "fr_FR": "madison-ms"
+                    },
+                    "state": "MS"
+                },
+                "make": "Chevrolet",
+                "model": "Suburban",
+                "rating": 5,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2022
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 326.39, "currency": "USD" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 30419843,
+                "id": 2640691,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/264JI2ALSr2TDARohAzu4w.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/264JI2ALSr2TDARohAzu4w.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Madison",
+                    "country": "US",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 165.30898326214813
+                    },
+                    "homeLocation": {
+                        "lat": 32.462540601892826,
+                        "lng": -90.13306292506593
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "madison-ms",
+                        "en_GB": "madison-ms",
+                        "en_CA": "madison-ms",
+                        "en_US": "madison-ms",
+                        "en_AU": "madison-ms",
+                        "fr_FR": "madison-ms"
+                    },
+                    "state": "MS"
+                },
+                "make": "Chevrolet",
+                "model": "Suburban",
+                "rating": null,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2023
+            }
+        ],
+        "details": {
+            "name": "Alecia J.",
+            "firstName": "Alecia",
+            "lastName": "J.",
+            "id": 30419843,
+            "image": "https://images.turo.com/media/driver/Jsk1Q7a4QryXFZWrFxe1nw.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "35987058": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 59.98, "currency": "USD" },
+                "completedTrips": 19,
+                "estimatedQuote": null,
+                "hostId": 35987058,
+                "id": 2549455,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/yph-InlYT9yzQOKkaBe_Ww.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/yph-InlYT9yzQOKkaBe_Ww.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Mobile",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 3.410871082826692 },
+                    "homeLocation": {
+                        "lat": 30.642849957480184,
+                        "lng": -88.25064370249919
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "mobile-al",
+                        "en_GB": "mobile-al",
+                        "en_CA": "mobile-al",
+                        "en_US": "mobile-al",
+                        "en_AU": "mobile-al",
+                        "fr_FR": "mobile-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Chevrolet",
+                "model": "Equinox",
+                "rating": 5,
+                "seoCategory": "SUV",
+                "tags": [],
+                "type": "SUV",
+                "year": 2021
+            }
+        ],
+        "details": {
+            "name": "Racquel A.",
+            "firstName": "Racquel",
+            "lastName": "A.",
+            "id": 35987058,
+            "image": "https://images.turo.com/media/driver/QVrTt8pXRki965hiqgbTbg.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "39151582": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 41.36, "currency": "USD" },
+                "completedTrips": 21,
+                "estimatedQuote": null,
+                "hostId": 39151582,
+                "id": 2456019,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/wxYeHw0sSXSkIUHlCOlWtw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/wxYeHw0sSXSkIUHlCOlWtw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Semmes",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 5.682447920942025 },
+                    "homeLocation": {
+                        "lat": 30.770839898737513,
+                        "lng": -88.27100327786097
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "semmes-al",
+                        "en_GB": "semmes-al",
+                        "en_CA": "semmes-al",
+                        "en_US": "semmes-al",
+                        "en_AU": "semmes-al",
+                        "fr_FR": "semmes-al"
+                    },
+                    "state": "AL"
+                },
+                "make": "Toyota",
+                "model": "Camry",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2017
+            }
+        ],
+        "details": {
+            "name": "Certified R.",
+            "firstName": "Certified",
+            "lastName": "R.",
+            "id": 39151582,
+            "image": "https://images.turo.com/media/driver/eRpAHQmQRJWs8NE2-8ByTg.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "42729172": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 68.92, "currency": "USD" },
+                "completedTrips": 1,
+                "estimatedQuote": null,
+                "hostId": 42729172,
+                "id": 2725009,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/rXwwqioWSxejZIuTsAzSUA.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/rXwwqioWSxejZIuTsAzSUA.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": true,
+                "location": {
+                    "city": "Ocean Springs",
+                    "country": "US",
+                    "distance": { "unit": "MILES", "value": 35.66030359561126 },
+                    "homeLocation": {
+                        "lat": 30.41545145155583,
+                        "lng": -88.750268925407
+                    },
+                    "isDelivery": true,
+                    "locationId": 7897286,
+                    "locationSlugs": {
+                        "fr_CA": "ocean-springs-ms",
+                        "en_GB": "ocean-springs-ms",
+                        "en_CA": "ocean-springs-ms",
+                        "en_US": "ocean-springs-ms",
+                        "en_AU": "ocean-springs-ms",
+                        "fr_FR": "ocean-springs-ms"
+                    },
+                    "state": "MS"
+                },
+                "make": "Honda",
+                "model": "Civic",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Free pickup at MOB", "type": "FREE_DELIVERY" }
+                ],
+                "type": "CAR",
+                "year": 2021
+            }
+        ],
+        "details": {
+            "name": "Mark M.",
+            "firstName": "Mark",
+            "lastName": "M.",
+            "id": 42729172,
+            "image": "https://images.turo.com/media/driver/3ON-WdKwT5Sq2cFl6XNKrg.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    }
+}

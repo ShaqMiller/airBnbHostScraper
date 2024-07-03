@@ -1,0 +1,585 @@
+{
+    "25538224": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 15.42, "currency": "GBP" },
+                "completedTrips": 35,
+                "estimatedQuote": null,
+                "hostId": 25538224,
+                "id": 1524420,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/MQMrrVu5QzCWESHnUgJqaw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/MQMrrVu5QzCWESHnUgJqaw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Bradford",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 92.98934732921224 },
+                    "homeLocation": {
+                        "lat": 53.79821591458217,
+                        "lng": -1.7536231366166697
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "bradford",
+                        "en_GB": "bradford",
+                        "en_CA": "bradford",
+                        "en_US": "bradford",
+                        "en_AU": "bradford",
+                        "fr_FR": "bradford"
+                    },
+                    "state": "Uk"
+                },
+                "make": "Chevrolet",
+                "model": "Cruze",
+                "rating": 4.9286,
+                "seoCategory": "SUV",
+                "tags": [
+                    { "label": "Unlimited miles", "type": "UNLIMITED_MILEAGE" }
+                ],
+                "type": "SUV",
+                "year": 2014
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 28.7, "currency": "GBP" },
+                "completedTrips": 24,
+                "estimatedQuote": null,
+                "hostId": 25538224,
+                "id": 1534166,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/eDc74CfES6SaExNLYVh3tQ.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/eDc74CfES6SaExNLYVh3tQ.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Bradford",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 92.93553820548047 },
+                    "homeLocation": {
+                        "lat": 53.79724785019945,
+                        "lng": -1.7045706920021033
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "bradford",
+                        "en_GB": "bradford",
+                        "en_CA": "bradford",
+                        "en_US": "bradford",
+                        "en_AU": "bradford",
+                        "fr_FR": "bradford"
+                    },
+                    "state": "England"
+                },
+                "make": "Seat",
+                "model": "Leon",
+                "rating": 4.8421,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Unlimited miles", "type": "UNLIMITED_MILEAGE" }
+                ],
+                "type": "CAR",
+                "year": 2012
+            }
+        ],
+        "details": {
+            "name": "Muhammad H.",
+            "firstName": "Muhammad",
+            "lastName": "H.",
+            "id": 25538224,
+            "image": "https://images.turo.com/media/driver/iioh1BFgT-OMcDJenqsg6Q.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "26855359": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 53.4, "currency": "GBP" },
+                "completedTrips": 5,
+                "estimatedQuote": null,
+                "hostId": 26855359,
+                "id": 2070715,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/FnXo5WsCSGSTAsrt96bi2g.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/FnXo5WsCSGSTAsrt96bi2g.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Birmingham",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 8.903444834422318 },
+                    "homeLocation": {
+                        "lat": 52.55327870988261,
+                        "lng": -1.8751852798732143
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "birmingham",
+                        "en_GB": "birmingham",
+                        "en_CA": "birmingham",
+                        "en_US": "birmingham",
+                        "en_AU": "birmingham",
+                        "fr_FR": "birmingham"
+                    },
+                    "state": "ENGLAND"
+                },
+                "make": "BMW",
+                "model": "1 Series",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2016
+            }
+        ],
+        "details": {
+            "name": "Ans B.",
+            "firstName": "Ans",
+            "lastName": "B.",
+            "id": 26855359,
+            "image": "https://images.turo.com/media/driver/kA3MWrVnQeeWsm08g2WYig.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "31068194": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 61.6, "currency": "GBP" },
+                "completedTrips": 29,
+                "estimatedQuote": null,
+                "hostId": 31068194,
+                "id": 1972663,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/Nzg8SfiDQNakTpr5YiDilQ.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Nzg8SfiDQNakTpr5YiDilQ.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Nuneaton",
+                    "country": "GB",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 11.229707100778171
+                    },
+                    "homeLocation": {
+                        "lat": 52.52072819746925,
+                        "lng": -1.5013550892926146
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "nuneaton",
+                        "en_GB": "nuneaton",
+                        "en_CA": "nuneaton",
+                        "en_US": "nuneaton",
+                        "en_AU": "nuneaton",
+                        "fr_FR": "nuneaton"
+                    },
+                    "state": "ENGLAND"
+                },
+                "make": "Mercedes-Benz",
+                "model": "C-Class",
+                "rating": 4.9655,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Free pickup at BHX", "type": "FREE_DELIVERY" },
+                    { "label": "Unlimited miles", "type": "UNLIMITED_MILEAGE" }
+                ],
+                "type": "CAR",
+                "year": 2016
+            }
+        ],
+        "details": {
+            "name": "Iulian P.",
+            "firstName": "Iulian",
+            "lastName": "P.",
+            "id": 31068194,
+            "image": "https://images.turo.com/media/driver/kHMCW_xpQCSbkAKDEv5J9g.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "32210293": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 128.3, "currency": "GBP" },
+                "completedTrips": 15,
+                "estimatedQuote": null,
+                "hostId": 32210293,
+                "id": 2023404,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/GtNohqE8QhW64pIloDVpvQ.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/GtNohqE8QhW64pIloDVpvQ.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Birmingham",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 6.59186163684983 },
+                    "homeLocation": {
+                        "lat": 52.47490344600109,
+                        "lng": -1.8956741237216577
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "birmingham",
+                        "en_GB": "birmingham",
+                        "en_CA": "birmingham",
+                        "en_US": "birmingham",
+                        "en_AU": "birmingham",
+                        "fr_FR": "birmingham"
+                    },
+                    "state": "ENGLAND"
+                },
+                "make": "Porsche",
+                "model": "Boxster 718",
+                "rating": 5,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2018
+            }
+        ],
+        "details": {
+            "name": "Callum K.",
+            "firstName": "Callum",
+            "lastName": "K.",
+            "id": 32210293,
+            "image": "https://images.turo.com/media/driver/Qb2hqhgaSiiBapYHIR3ZzQ.jpg",
+            "bio": {
+                "employment": "Managing Director",
+                "home": "Birmingham, UK.",
+                "languages": "English",
+                "openEndedText": "Hi! I’m Callum 👋🏼\n\nI’ve joined Turo to provide affordable yet premium car hire across the UK! We began by hiring out our vehicles on a short term basis with our hotel guests, and now are venturing into the Turo market, providing great reliable cars!\n\n\n🔧 With a mechanical background - you’ll find me working on new motors in downtime, a true passion of mine!\n\n✅ I look forward to hearing from you soon & please don’t hesitate to get in touch with any questions!\n",
+                "school": ""
+            }
+        }
+    },
+    "34726951": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 36, "currency": "GBP" },
+                "completedTrips": 23,
+                "estimatedQuote": null,
+                "hostId": 34726951,
+                "id": 2125669,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/SbXBS-Y5QaCGuswev3eiYw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/SbXBS-Y5QaCGuswev3eiYw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": true,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Birmingham",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 9.674637760472638 },
+                    "homeLocation": {
+                        "lat": 52.442286024612535,
+                        "lng": -1.972649454018361
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "birmingham",
+                        "en_GB": "birmingham",
+                        "en_CA": "birmingham",
+                        "en_US": "birmingham",
+                        "en_AU": "birmingham",
+                        "fr_FR": "birmingham"
+                    },
+                    "state": "England"
+                },
+                "make": "Toyota",
+                "model": "C-HR",
+                "rating": 4.8824,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2018
+            }
+        ],
+        "details": {
+            "name": "Precious O.",
+            "firstName": "Precious",
+            "lastName": "O.",
+            "id": 34726951,
+            "image": "https://images.turo.com/media/driver/mfwDriHlTmSPpQcOy8gM8A.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "39329359": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 66, "currency": "GBP" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 39329359,
+                "id": 2675553,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/wfgN7OayRjegIUl7lZCcAw.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/wfgN7OayRjegIUl7lZCcAw.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Bletchley",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 53.15771372144075 },
+                    "homeLocation": {
+                        "lat": 51.99261851888415,
+                        "lng": -0.7365026411699341
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "bletchley",
+                        "en_GB": "bletchley",
+                        "en_CA": "bletchley",
+                        "en_US": "bletchley",
+                        "en_AU": "bletchley",
+                        "fr_FR": "bletchley"
+                    },
+                    "state": null
+                },
+                "make": "Audi",
+                "model": "A4",
+                "rating": null,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Unlimited miles", "type": "UNLIMITED_MILEAGE" }
+                ],
+                "type": "CAR",
+                "year": 2023
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 90, "currency": "GBP" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 39329359,
+                "id": 2671472,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/Qg0qRVXaRFuzpY5iRdZfFg.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Qg0qRVXaRFuzpY5iRdZfFg.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Bletchley",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 52.42619651694478 },
+                    "homeLocation": {
+                        "lat": 51.99063893255971,
+                        "lng": -0.7606341060238162
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "bletchley",
+                        "en_GB": "bletchley",
+                        "en_CA": "bletchley",
+                        "en_US": "bletchley",
+                        "en_AU": "bletchley",
+                        "fr_FR": "bletchley"
+                    },
+                    "state": null
+                },
+                "make": "Volkswagen",
+                "model": "T-ROC",
+                "rating": null,
+                "seoCategory": "CAR",
+                "tags": [
+                    { "label": "Unlimited miles", "type": "UNLIMITED_MILEAGE" }
+                ],
+                "type": "CAR",
+                "year": 2021
+            },
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 132, "currency": "GBP" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 39329359,
+                "id": 2734329,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/-lUsatX5R2ial_LlsN-P_Q.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/-lUsatX5R2ial_LlsN-P_Q.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": true,
+                "location": {
+                    "city": "Bierton",
+                    "country": "GB",
+                    "distance": {
+                        "unit": "MILES",
+                        "value": 59.151782153039825
+                    },
+                    "homeLocation": {
+                        "lat": 51.83256835894164,
+                        "lng": -0.7811779481829879
+                    },
+                    "isDelivery": true,
+                    "locationId": 7891426,
+                    "locationSlugs": {
+                        "fr_CA": "bierton",
+                        "en_GB": "bierton",
+                        "en_CA": "bierton",
+                        "en_US": "bierton",
+                        "en_AU": "bierton",
+                        "fr_FR": "bierton"
+                    },
+                    "state": null
+                },
+                "make": "BMW",
+                "model": "2 Series",
+                "rating": null,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2023
+            }
+        ],
+        "details": {
+            "name": "Mohamed A.",
+            "firstName": "Mohamed",
+            "lastName": "A.",
+            "id": 39329359,
+            "image": "https://images.turo.com/media/driver/7al90_zhRSmuIV4xkKOl6w.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    },
+    "40594214": {
+        "vehicles": [
+            {
+                "availability": null,
+                "avgDailyPrice": { "amount": 57.6, "currency": "GBP" },
+                "completedTrips": 0,
+                "estimatedQuote": null,
+                "hostId": 40594214,
+                "id": 2635954,
+                "images": [
+                    {
+                        "originalImageUrl": "https://images.turo.com/media/vehicle/images/pmyKkXjkQ0ymITBFCOgS4w.jpg",
+                        "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/pmyKkXjkQ0ymITBFCOgS4w.{width}x{height}.jpg"
+                    }
+                ],
+                "isAllStarHost": false,
+                "isFavoritedBySearcher": false,
+                "isNewListing": false,
+                "location": {
+                    "city": "Shirley",
+                    "country": "GB",
+                    "distance": { "unit": "MILES", "value": 4.770605451047897 },
+                    "homeLocation": {
+                        "lat": 52.40313434405753,
+                        "lng": -1.8228788653359362
+                    },
+                    "isDelivery": false,
+                    "locationId": null,
+                    "locationSlugs": {
+                        "fr_CA": "shirley",
+                        "en_GB": "shirley",
+                        "en_CA": "shirley",
+                        "en_US": "shirley",
+                        "en_AU": "shirley",
+                        "fr_FR": "shirley"
+                    },
+                    "state": "ENGLAND"
+                },
+                "make": "Tesla",
+                "model": "Model 3",
+                "rating": null,
+                "seoCategory": "CAR",
+                "tags": [],
+                "type": "CAR",
+                "year": 2021
+            }
+        ],
+        "details": {
+            "name": "Dineth K.",
+            "firstName": "Dineth",
+            "lastName": "K.",
+            "id": 40594214,
+            "image": "https://images.turo.com/media/driver/oY6plCatSryA4fyRDFhYgQ.jpg",
+            "bio": {
+                "employment": "",
+                "home": "",
+                "languages": "",
+                "openEndedText": "",
+                "school": ""
+            }
+        }
+    }
+}
